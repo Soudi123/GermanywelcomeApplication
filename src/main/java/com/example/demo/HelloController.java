@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 
         @GetMapping("/hello")
         public String sayHello() {
-            return "Guten Tag. Wie geht es dir? Ma name ist Andy. ";
+            return "Guten Tag. Wie geht es dir? Ma name ist Soudeh. ";
         }
     }
 
